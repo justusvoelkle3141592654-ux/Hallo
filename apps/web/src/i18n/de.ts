@@ -1,5 +1,5 @@
 export const de = {
-  appName: 'Gero',
+  appName: 'Vokabeltrainer',
   tagline: 'Vokabeltrainer',
   nav: {
     home: 'Start',

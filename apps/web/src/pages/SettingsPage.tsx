@@ -1,4 +1,4 @@
-import { UI_LANGUAGES } from '@gero/shared';
+import { UI_LANGUAGES } from '@vokabeltrainer/shared';
 import { PageHeader } from '../components/Page';
 import { useI18n } from '../i18n';
 

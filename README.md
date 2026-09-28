@@ -1,4 +1,4 @@
-# Gero – KI-gestützter Vokabeltrainer
+# Vokabeltrainer – KI-gestützt
 
 Selbst gehosteter Vokabeltrainer mit Karteikarten-Prinzip (6 Stufen bis ins Langzeitgedächtnis).
 Vokabeln werden per Foto aus dem Vokabelheft erkannt, Antworten prüft ein schnelles KI-Modell.
@@ -13,8 +13,8 @@ Vokabeln werden per Foto aus dem Vokabelheft erkannt, Antworten prüft ein schne
 ## Installation
 
 ```bash
-git clone https://github.com/justusvoelkle3141592654-ux/Gero.git
-cd Gero
+git clone https://github.com/justusvoelkle3141592654-ux/Hallo.git
+cd Hallo
 npm install
 cp .env.example .env   # optional, Standardwerte funktionieren
 ```

@@ -1,5 +1,5 @@
 /** Name of the app as shown in the UI and API. */
-export const APP_NAME = 'Gero';
+export const APP_NAME = 'Vokabeltrainer';
 
 /** Supported UI languages. */
 export const UI_LANGUAGES = ['de', 'en'] as const;

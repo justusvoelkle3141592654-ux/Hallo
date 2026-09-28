@@ -1,7 +1,7 @@
 import type { Messages } from './de';
 
 export const en: Messages = {
-  appName: 'Gero',
+  appName: 'Vokabeltrainer',
   tagline: 'Vocabulary trainer',
   nav: {
     home: 'Home',
